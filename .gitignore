@@ -1,0 +1,25 @@
+# Android
+platforms/
+platforms/android/bin/
+platforms/android/gen/
+platforms/android/res/xml/config.xml
+platforms/android/.gradle
+
+# iOS
+platforms/ios/build/
+platforms/ios/CordovaLib/build/
+platforms/ios/www
+platforms/ios/MyPace/config.xml
+platforms/ios/.staging
+
+# Emulator logs
+platforms/ios/cordova/console.log
+
+# Plugins
+plugins/
+
+# JS packages
+node_modules
+
+# Private files
+google-services.json
